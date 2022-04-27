@@ -1,4 +1,4 @@
 ## Deploy in One Click
 
 
-(!(Deploy to Okteto)(httpps://okteto.com/develop-okteto.svg)!((httpps://cloud.okteto.com/Deploy)repository=https://github.com/Leotr86/descarga7)
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Leotr86/descarga7)
